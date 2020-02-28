@@ -19,3 +19,5 @@ IPython notebook files, to be used by Amazon SageMaker or Google Colab during th
     * Distributed learning
     * Generative adversarial networks (GANs)
 
+## Finished version
+A finished version can be found in the `finish` folder under each day's folder.
